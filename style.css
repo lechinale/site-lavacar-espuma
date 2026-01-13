@@ -123,8 +123,9 @@ header p {
 }
 
 .btn:hover {
-  background-color: var(--cor-primaria);
+  background-color: var(--cor-clara);
   border-color: var(--cor-primaria);
+  color: var(--cor-escura);
 }
 
 /* NAV */
