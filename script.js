@@ -24,3 +24,18 @@ document.querySelectorAll('nav a').forEach(link => {
     }
   });
 });
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AutoRepair",
+  "name": "Auto Center Espuma de Prata 2",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bauru",
+    "addressRegion": "SP",
+    "addressCountry": "BR"
+  },
+  "openingHours": "Mo-Sa 08:00-18:00"
+}
+</script>
